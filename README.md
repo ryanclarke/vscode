@@ -1,3 +1,7 @@
+# Hacktoberfest has changed the rules for the contest twice in 3 days
+
+I am just getting my 4 PRs in the best I can before they change the rules again or the spammers get all the shirts. The real PRs will be coming in future days and weeks as I can get the changes accepted by vscode, aspnetcore, etc.
+
 # Visual Studio Code - Open Source ("Code - OSS")
 [![Build Status](https://dev.azure.com/vscode/VSCode/_apis/build/status/VS%20Code?branchName=master)](https://aka.ms/vscode-builds)
 [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
